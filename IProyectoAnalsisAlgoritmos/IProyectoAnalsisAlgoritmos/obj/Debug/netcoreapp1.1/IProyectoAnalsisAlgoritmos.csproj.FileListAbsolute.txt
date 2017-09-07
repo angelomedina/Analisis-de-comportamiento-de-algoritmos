@@ -1,0 +1,10 @@
+C:\Users\Usuario.ANGELO\Documents\GitHub\I-Proyecto-Analisis\IProyectoAnalsisAlgoritmos\IProyectoAnalsisAlgoritmos\bin\Debug\netcoreapp1.1\IProyectoAnalsisAlgoritmos.deps.json
+C:\Users\Usuario.ANGELO\Documents\GitHub\I-Proyecto-Analisis\IProyectoAnalsisAlgoritmos\IProyectoAnalsisAlgoritmos\bin\Debug\netcoreapp1.1\IProyectoAnalsisAlgoritmos.runtimeconfig.json
+C:\Users\Usuario.ANGELO\Documents\GitHub\I-Proyecto-Analisis\IProyectoAnalsisAlgoritmos\IProyectoAnalsisAlgoritmos\bin\Debug\netcoreapp1.1\IProyectoAnalsisAlgoritmos.runtimeconfig.dev.json
+C:\Users\Usuario.ANGELO\Documents\GitHub\I-Proyecto-Analisis\IProyectoAnalsisAlgoritmos\IProyectoAnalsisAlgoritmos\bin\Debug\netcoreapp1.1\IProyectoAnalsisAlgoritmos.dll
+C:\Users\Usuario.ANGELO\Documents\GitHub\I-Proyecto-Analisis\IProyectoAnalsisAlgoritmos\IProyectoAnalsisAlgoritmos\bin\Debug\netcoreapp1.1\IProyectoAnalsisAlgoritmos.pdb
+C:\Users\Usuario.ANGELO\Documents\GitHub\I-Proyecto-Analisis\IProyectoAnalsisAlgoritmos\IProyectoAnalsisAlgoritmos\obj\Debug\netcoreapp1.1\IProyectoAnalsisAlgoritmos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario.ANGELO\Documents\GitHub\I-Proyecto-Analisis\IProyectoAnalsisAlgoritmos\IProyectoAnalsisAlgoritmos\obj\Debug\netcoreapp1.1\IProyectoAnalsisAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario.ANGELO\Documents\GitHub\I-Proyecto-Analisis\IProyectoAnalsisAlgoritmos\IProyectoAnalsisAlgoritmos\obj\Debug\netcoreapp1.1\IProyectoAnalsisAlgoritmos.AssemblyInfo.cs
+C:\Users\Usuario.ANGELO\Documents\GitHub\I-Proyecto-Analisis\IProyectoAnalsisAlgoritmos\IProyectoAnalsisAlgoritmos\obj\Debug\netcoreapp1.1\IProyectoAnalsisAlgoritmos.dll
+C:\Users\Usuario.ANGELO\Documents\GitHub\I-Proyecto-Analisis\IProyectoAnalsisAlgoritmos\IProyectoAnalsisAlgoritmos\obj\Debug\netcoreapp1.1\IProyectoAnalsisAlgoritmos.pdb

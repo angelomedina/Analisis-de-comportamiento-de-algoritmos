@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\Doccumentos TEC\\4 SEMESTRE 2017\\Analisis de Algoritmos\\Proyectos\\I Proyecto\\IProyectoAnalsisAlgoritmos\\IProyectoAnalsisAlgoritmos\\IProyectoAnalsisAlgoritmos.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario.ANGELO\\Documents\\GitHub\\I-Proyecto-Analisis\\IProyectoAnalsisAlgoritmos\\IProyectoAnalsisAlgoritmos\\IProyectoAnalsisAlgoritmos.csproj",
       "projectName": "IProyectoAnalsisAlgoritmos",
-      "projectPath": "E:\\Doccumentos TEC\\4 SEMESTRE 2017\\Analisis de Algoritmos\\Proyectos\\I Proyecto\\IProyectoAnalsisAlgoritmos\\IProyectoAnalsisAlgoritmos\\IProyectoAnalsisAlgoritmos.csproj",
+      "projectPath": "C:\\Users\\Usuario.ANGELO\\Documents\\GitHub\\I-Proyecto-Analisis\\IProyectoAnalsisAlgoritmos\\IProyectoAnalsisAlgoritmos\\IProyectoAnalsisAlgoritmos.csproj",
       "packagesPath": "C:\\Users\\Usuario.ANGELO\\.nuget\\packages\\",
-      "outputPath": "E:\\Doccumentos TEC\\4 SEMESTRE 2017\\Analisis de Algoritmos\\Proyectos\\I Proyecto\\IProyectoAnalsisAlgoritmos\\IProyectoAnalsisAlgoritmos\\obj\\",
+      "outputPath": "C:\\Users\\Usuario.ANGELO\\Documents\\GitHub\\I-Proyecto-Analisis\\IProyectoAnalsisAlgoritmos\\IProyectoAnalsisAlgoritmos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario.ANGELO\\AppData\\Roaming\\NuGet\\NuGet.Config",

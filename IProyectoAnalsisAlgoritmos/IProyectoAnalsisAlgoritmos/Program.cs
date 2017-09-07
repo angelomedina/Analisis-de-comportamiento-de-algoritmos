@@ -1,4 +1,6 @@
-﻿using System;
+﻿using RadixSort;
+using RadixSort.Entities;
+using System;
 
 namespace IProyectoAnalsisAlgoritmos
 {
@@ -6,7 +8,15 @@ namespace IProyectoAnalsisAlgoritmos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Radixsort radix = new Radixsort();
+            radix.impresionTotalRadixSort();
+
+            Shellsort shell = new Shellsort();
+            shell.impresionTotalShellSort();
+
+            Console.WriteLine("Finalizo");
+            Console.ReadKey();
+
         }
     }
 }
